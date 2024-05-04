@@ -1,0 +1,8 @@
+all:
+  children:
+    rocky:
+      hosts:
+        rocky:
+    ubuntu:
+      hosts:
+        ubu:
